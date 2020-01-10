@@ -14,7 +14,7 @@
   limitations under the License.
 */
 
-pragma solidity 0.5.12;
+pragma solidity 0.5.13;
 
 import "./interfaces/ITransferHandler.sol";
 import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
