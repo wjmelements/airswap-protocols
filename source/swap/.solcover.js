@@ -7,6 +7,7 @@ module.exports = {
     skipFiles: ['analysis', 'interfaces', 'contracts/Imports.sol'],
     compilers: {
         solc: {
+          evmVersion: "istanbul",
           version: "0.5.13" // A version or constraint - Ex. "^0.5.0"
         }
     }
