@@ -1,6 +1,6 @@
 {
-  "name": "@airswap/tokens",
-  "version": "0.1.4",
+  "name": "wjm-airswap-tokens",
+  "version": "1.0.0",
   "description": "Ethereum tokens used on the AirSwap Network",
   "contributors": [
     "Don Mosites <don.mosites@fluidity.io>",
