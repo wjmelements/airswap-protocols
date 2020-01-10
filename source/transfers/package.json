@@ -1,11 +1,11 @@
 {
-  "name": "@airswap/transfers",
-  "version": "0.0.2",
+  "name": "wjm-airswap-transfers",
+  "version": "1.0.0",
   "description": "A registry to manage token transfers on the AirSwap Network",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airswap/airswap-protocols"
+    "url": "https://github.com/wjmelements/airswap-protocols"
   },
   "scripts": {
     "clean": "rm -rf ./build",
