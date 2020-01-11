@@ -17,9 +17,9 @@
 pragma solidity 0.5.13;
 pragma experimental ABIEncoderV2;
 
-import "@airswap/transfers/contracts/interfaces/ITransferHandler.sol";
-import "@airswap/transfers/contracts/TransferHandlerRegistry.sol";
-import "@airswap/swap/contracts/interfaces/ISwap.sol";
+import "wjm-airswap-transfers/contracts/interfaces/ITransferHandler.sol";
+import "wjm-airswap-transfers/contracts/TransferHandlerRegistry.sol";
+import "./interfaces/ISwap.sol";
 
 /**
   * @title Swap: The Atomic Swap used on the AirSwap Network

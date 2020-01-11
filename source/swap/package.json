@@ -29,12 +29,12 @@
   "devDependencies": {
     "@airswap/order-utils": "0.3.19",
     "@airswap/test-utils": "0.1.4",
-    "@airswap/tokens": "0.1.4",
+    "wjm-airswap-tokens": "1.0.0",
     "solidity-coverage": "^0.6.3",
     "solidity-docgen": "0.3.0-beta.3"
   },
   "dependencies": {
-    "wjm-airswap-transfers": "1.0.0",
+    "wjm-airswap-transfers": "1.0.1",
     "wjm-airswap-types": "3.0.0",
     "openzeppelin-solidity": "2.4"
   }

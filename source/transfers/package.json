@@ -1,6 +1,6 @@
 {
   "name": "wjm-airswap-transfers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A registry to manage token transfers on the AirSwap Network",
   "license": "Apache-2.0",
   "repository": {
@@ -19,7 +19,7 @@
   "devDependencies": {
     "@airswap/order-utils": "0.3.19",
     "@airswap/test-utils": "0.1.4",
-    "@airswap/tokens": "0.1.4",
+    "wjm-airswap-tokens": "1.0.0",
     "solidity-coverage": "^0.6.3"
   },
   "dependencies": {

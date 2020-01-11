@@ -17,7 +17,7 @@
 pragma solidity 0.5.13;
 
 import "../interfaces/ITransferHandler.sol";
-import "@airswap/tokens/contracts/interfaces/IERC1155.sol";
+import "wjm-airswap-tokens/contracts/interfaces/IERC1155.sol";
 
 contract ERC1155TransferHandler is ITransferHandler {
  /**
